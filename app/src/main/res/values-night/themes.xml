@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme for dark mode -->
+    <style name="Theme.SageStream" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">#90CAF9</item>
+        <item name="colorPrimaryVariant">#0D47A1</item>
+        <item name="colorOnPrimary">#000000</item>
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">#FFCC80</item>
+        <item name="colorSecondaryVariant">#E65100</item>
+        <item name="colorOnSecondary">#000000</item>
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources> 

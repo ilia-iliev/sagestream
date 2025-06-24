@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_import_quotes"
+        android:title="Import Quotes"
+        android:icon="@android:drawable/ic_menu_upload"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_set_notification_time"
+        android:title="Set Notification Time"
+        android:icon="@android:drawable/ic_menu_share"
+        app:showAsAction="never" />
+</menu> 
